@@ -1,9 +1,15 @@
-# Twee wandeltochten in de Provence, 23–27 november 2026
+# Drie wandeltochten in de Provence, 23–27 november 2026
 
-Twee kaarten voor dezelfde week, om te kiezen tussen de kust en de bergen.
+Drie kaarten voor dezelfde week, om te kiezen tussen de kust, de bergen en een
+tocht die beide doet.
 
 - **Langs de kust — Bandol naar Marseille:** https://holyjezusandgod.github.io/calanques-sainte-baume/
 - **Naar de Sainte-Baume — Cassis naar Saint-Zacharie:** https://holyjezusandgod.github.io/calanques-sainte-baume/sainte-baume.html
+- **Grot en calanques — Aubagne, de grot van de Sainte-Baume, Cassis, Marseille:** https://holyjezusandgod.github.io/calanques-sainte-baume/grot.html
+  Trein naar Aubagne, in één dag omhoog naar de grot, over de GR 98 naar Cassis,
+  afdalen naar het strand van En-Vau, slapen in de jeugdherberg La Fontasse en
+  door de calanques te voet Marseille in. Geen bus heen en weer, twee nachten
+  in een onbemande hut.
 
 ## Wat je ziet
 
