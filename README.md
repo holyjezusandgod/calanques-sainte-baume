@@ -5,15 +5,15 @@ tocht die beide doet.
 
 - **Langs de kust — Bandol naar Marseille:** https://holyjezusandgod.github.io/calanques-sainte-baume/
 - **Naar de Sainte-Baume — Cassis naar Saint-Zacharie:** https://holyjezusandgod.github.io/calanques-sainte-baume/sainte-baume.html
-- **Grot en calanques — Aubagne, de grot van de Sainte-Baume, Cassis, Marseille:** https://holyjezusandgod.github.io/calanques-sainte-baume/grot.html
-  Trein naar Aubagne, in één dag omhoog naar de grot, over de GR 98 naar Cassis,
-  afdalen naar het strand van En-Vau, slapen in de jeugdherberg La Fontasse en
-  door de calanques te voet Marseille in. Geen bus heen en weer, twee nachten
-  in een onbemande hut.
+- **Grot en calanques — de grot van de Sainte-Baume, Cassis, Marseille (24–27 november):** https://holyjezusandgod.github.io/calanques-sainte-baume/grot.html
+  Vier dagen vanaf dinsdag: van de Hostellerie de la Sainte-Baume langs de grot
+  over de kam, over de GR 98 naar Cassis, rechtstreeks omhoog naar de
+  jeugdherberg La Fontasse en door de calanques te voet Marseille in. Twee
+  nachten in een onbemande hut.
 
 ## Wat je ziet
 
-- **De route**, vijf dagen in vijf kleuren. Lijnen en hoogtes zijn gemeten,
+- **De route**, elke dag in een eigen kleur. Lijnen en hoogtes zijn gemeten,
   niet geschat: de paden komen uit OpenStreetMap (GR 98, GR 9, het kustpad van
   Bandol, het pad over Cap Canaille), de verbindingen ertussen van BRouter,
   de hoogte uit het Franse RGE ALTI.

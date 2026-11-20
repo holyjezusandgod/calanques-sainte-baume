@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="calanques-route-planner" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Dag 3: Paul Ruat - Roquefort</name></metadata>
+  <metadata><name>Dag 2: Paul Ruat - Roquefort</name></metadata>
   <trk>
-    <name>Dag 3: Paul Ruat - Roquefort</name>
+    <name>Dag 2: Paul Ruat - Roquefort</name>
     <trkseg>
       <trkpt lat="43.307783" lon="5.681540"><ele>655</ele></trkpt>
       <trkpt lat="43.307825" lon="5.681620"><ele>656</ele></trkpt>

@@ -1,6 +1,6 @@
 /* Tekent de kaart, het hoogteprofiel en de dagkaarten.
  *
- * Input : de globale DATA uit de pagina — vijf etappes met hun punten
+ * Input : de globale DATA uit de pagina — de etappes (vier of vijf) met hun punten
  *         (lat, lon, hoogte), de punten langs de route, het slaapplan per
  *         nacht en de grens van het nationaal park.
  * Output: een werkende kaart in #map, een profiel in #profile en de
@@ -156,7 +156,7 @@ function wireProfileHover(prof, onMove) {
 }
 
 /* ------------------------------------------------------------- dagkaarten */
-/* Zet de vijf dagen in de linkerkolom.
+/* Zet de dagen in de linkerkolom.
  * Input : de etappes en een terugroep voor een klik op een dag.
  * Output: niets; vult #days.
  * Waarom: per dag de drie dingen die tellen eind november — hoe lang loop je
@@ -218,8 +218,14 @@ const GROUPS = [
   {key: 'camp',  label: 'Campings &amp; herbergen (OSM)', color: '#a16207',
    kinds: ['Camping', 'Herberg'], on: true},
   {key: 'water', label: 'Drinkwater',          color: '#0369a1', kinds: ['Drinkwater'], on: true},
+  /* Niet zeker: een bron of put kan droog staan, een citerne of regenton is geen
+     drinkwater zonder filter, en bij een begraafplaats of toilet is een kraan
+     alleen waarschijnlijk. */
+  {key: 'bron',  label: 'Bron, put of mogelijke kraan (niet zeker)', color: '#0e7490',
+   kinds: ['Bron of put', 'Water mogelijk'], on: true},
+  /* Winkels staan uit, behalve op een tocht waar ze schaars zijn (meta.winkels_aan). */
   {key: 'food',  label: 'Winkel &amp; bakker', color: '#7c2d12',
-   kinds: ['Supermarkt', 'Buurtwinkel', 'Bakker'], on: false},
+   kinds: ['Supermarkt', 'Buurtwinkel', 'Bakker'], on: !!DATA.meta.winkels_aan},
   {key: 'trans', label: 'Station &amp; apotheek', color: '#475569',
    kinds: ['Treinstation', 'Apotheek'], on: true},
 ];
@@ -239,7 +245,7 @@ function buildMap() {
     null, {position: 'topleft'}).addTo(map);
   L.control.scale({imperial: false, position: 'bottomleft'}).addTo(map);
 
-  // De vijf etappes, elk met een witte bies zodat de kleur op elke ondergrond leest.
+  // De etappes, elk met een witte bies zodat de kleur op elke ondergrond leest.
   const lines = {};
   const all = [];
   DATA.stages.forEach(s => {
@@ -269,9 +275,6 @@ function buildMap() {
 
   // Waypoints, per groep in een eigen laag zodat je ze kunt uitzetten.
   const layers = {};
-  /* Welke wandeldag eindigt in welke nacht: nacht 22 ligt voor dag 1, dus die
-     krijgt geen kleur van een dag; 23 t/m 27 horen bij dag 1 t/m 5. */
-  const NIGHT_DAY = {22: 0, 23: 1, 24: 2, 25: 3, 26: 4, 27: 5};
   GROUPS.forEach(g => {
     const lay = L.layerGroup();
     DATA.waypoints.filter(w => g.kinds.includes(w.kind)).forEach(w => {
@@ -391,7 +394,7 @@ function renderFiles(stages) {
   const rows = stages.map(s => [
     s.gpx, `Dag ${s.day}: ${s.frm} → ${s.to}`, `${String(s.km).replace('.', ',')} km`]);
   const totaal = stages.reduce((a, s) => a + s.km, 0);
-  rows.push([DATA.meta.gpx_totaal, 'Alle vijf dagen in één track',
+  rows.push([DATA.meta.gpx_totaal, 'Alle dagen in één track',
              totaal.toFixed(1).replace('.', ',') + ' km']);
   document.getElementById('files').innerHTML = rows
     .map(([h, t, s]) => `<a href="${h}" download>${t}<span>${s}</span></a>`).join('');

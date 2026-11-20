@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="calanques-route-planner" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Dag 2: Sainte-Baume - Paul Ruat</name></metadata>
+  <metadata><name>Dag 1: Sainte-Baume - Paul Ruat</name></metadata>
   <trk>
-    <name>Dag 2: Sainte-Baume - Paul Ruat</name>
+    <name>Dag 1: Sainte-Baume - Paul Ruat</name>
     <trkseg>
       <trkpt lat="43.335141" lon="5.756462"><ele>669</ele></trkpt>
       <trkpt lat="43.335407" lon="5.756527"><ele>670</ele></trkpt>
