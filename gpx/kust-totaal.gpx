@@ -3,19 +3,33 @@
   <metadata><name>Bandol naar Marseille</name></metadata>
   <wpt lat="43.192470" lon="5.666040"><name>Buurtwinkel: Esso</name><desc>dag 2, km 2,9 | 258 m van het pad | open volgens OSM: 24/7 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.212380" lon="5.354160"><name>Drinkwater</name><desc>dag 5, km 13,9 | 28 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.213520" lon="5.541290"><name>Apotheek: Pharmacie du Casino</name><desc>dag 3, km 16,9 | 5 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.136210" lon="5.755160"><name>Apotheek: Pharmacie du Port</name><desc>dag 1, km 0,6 | 399 m van het pad | open volgens OSM: Mo-Sa 08:45-12:45,14:45-19:15 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.141990" lon="5.748250"><name>Apotheek: Pharmacie Porte d'Azur</name><desc>dag 1, km 0,1 | 258 m van het pad | open volgens OSM: Mo-Sa 08:30-12:30, 14:30-19:15 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.160380" lon="5.684970"><name>Drinkwater</name><desc>dag 1, km 10,6 | 132 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.140370" lon="5.750150"><name>Treinstation: Bandol</name><desc>dag 1, km 0,1 | 31 m van het pad | open volgens OSM: Mo-Su 05:30-00:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.194910" lon="5.611230"><name>Apotheek: Pharmacie du Romagoua</name><desc>dag 3, km 3,8 | 300 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.174980" lon="5.607420"><name>Buurtwinkel: Utile</name><desc>dag 3, km 6,4 | 73 m van het pad | open volgens OSM: Mo-Su 07:00-21:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.216990" lon="5.535780"><name>Apotheek: Pharmacie du Val d'Ore</name><desc>dag 4, km 0,9 | 252 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.189890" lon="5.648820"><name>Supermarkt: Aldi</name><desc>dag 2, km 3,9 | 538 m van het pad | open volgens OSM: Mo-Sa 08:30-20:00; Su 08:30-12:30 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.132100" lon="5.749000"><name>Drinkwater</name><desc>dag 1, km 1,2 | 363 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.199460" lon="5.632960"><name>Drinkwater</name><desc>dag 2, km 7,9 | 15 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.199740" lon="5.632600"><name>Drinkwater</name><desc>dag 2, km 7,9 | 38 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.191410" lon="5.602140"><name>Camping: Le soleil</name><desc>dag 3, km 4,4 | 1043 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.214370" lon="5.538680"><name>Bakker: Le Fournil du Port</name><desc>dag 4, km 0,6 | 45 m van het pad | open volgens OSM: Mo,We-Su 07:00-19:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.210700" lon="5.625820"><name>Apotheek: Pharmacie de Ceyreste</name><desc>dag 3, km 1,7 | 142 m van het pad | open volgens OSM: Mo-Fr 08:30-12:30, 14:30-19:30; Sa 08:30-12:30, 15:00-19:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.191230" lon="5.618210"><name>Apotheek: Pharmacie Sainte-Marguerite</name><desc>dag 3, km 4,3 | 245 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.191070" lon="5.617840"><name>Bakker: Boulangerie de Sainte Marguerite</name><desc>dag 3, km 4,3 | 217 m van het pad | open volgens OSM: Tu-Su 06:00-20:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.175900" lon="5.605190"><name>Buurtwinkel: Carrefour City</name><desc>dag 3, km 6,6 | 15 m van het pad | open volgens OSM: Mo-Sa 07:00-21:00; Su 09:00-13:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.175010" lon="5.608370"><name>Buurtwinkel: Chymós</name><desc>dag 3, km 6,4 | 121 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.137680" lon="5.751890"><name>Bakker: Banette</name><desc>dag 1, km 0,5 | 132 m van het pad | open volgens OSM: 06:30-13:00,16:00-20:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.230180" lon="5.437060"><name>Drinkwater: Borne fontaine de Luminy</name><desc>dag 4, km 14,9 | 205 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.175480" lon="5.608550"><name>Apotheek: Pharmacie Jouve</name><desc>dag 3, km 6,3 | 101 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.174170" lon="5.605620"><name>Apotheek: Pharmacie Mutualiste</name><desc>dag 3, km 6,7 | 124 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.175450" lon="5.605310"><name>Apotheek: Pharmacie du Marché</name><desc>dag 3, km 6,6 | 30 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.136220" lon="5.754480"><name>Buurtwinkel: Rendez-vous en Italie</name><desc>dag 1, km 0,6 | 344 m van het pad | open volgens OSM: Tu-Sa 09:00-13:00,16:00-19:00; Su 09:00-13:45 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.179110" lon="5.606340"><name>Apotheek: Pharmacie Egerland</name><desc>dag 3, km 6,2 | 303 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.175560" lon="5.600170"><name>Apotheek: Pharmacie de la Pétanque</name><desc>dag 3, km 7,6 | 19 m van het pad | open volgens OSM: Mo-Sa 08:30-12:30,14:30-19:30 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.177020" lon="5.691080"><name>Drinkwater</name><desc>dag 1, km 13,4 | 11 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.213770" lon="5.631870"><name>Buurtwinkel: Vival</name><desc>dag 2, km 9,8 | 161 m van het pad | open volgens OSM: Mo-Sa 07:30-12:30,16:30-19:30; Su 07:30-13:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.213450" lon="5.631020"><name>Bakker: Boulangerie la Ceyrestenne</name><desc>dag 2, km 9,7 | 103 m van het pad | bron: OpenStreetMap</desc></wpt>
@@ -27,6 +41,8 @@
   <wpt lat="43.136760" lon="5.757260"><name>Buurtwinkel: Epicerie Traiteur</name><desc>dag 1, km 0,6 | 568 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.142080" lon="5.748250"><name>Bakker: Banette</name><desc>dag 1, km 0,1 | 267 m van het pad | open volgens OSM: Mo-Sa 07:00-13:00, 16:00-20:00; Su 07:00-13:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.195300" lon="5.614800"><name>Drinkwater</name><desc>dag 3, km 3,8 | 16 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.172730" lon="5.605650"><name>Apotheek: Pharmacie du Port</name><desc>dag 3, km 7,1 | 253 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.183180" lon="5.611070"><name>Apotheek: Pharmacie du Vallat</name><desc>dag 3, km 5,2 | 84 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.185250" lon="5.608740"><name>Buurtwinkel</name><desc>dag 3, km 5,1 | 337 m van het pad | open volgens OSM: 24/7 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.140020" lon="5.740060"><name>Buurtwinkel: Utile</name><desc>dag 1, km 2,2 | 457 m van het pad | open volgens OSM: Sep-Jun: Mo-Sa 07:45-12:30,15:30-19:30; Sep-Jun: Su 07:45-12:30; Jul-Aug: Mo-Su 07:30-13:00,15:30-20:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.136360" lon="5.754720"><name>Bakker: La Bandolaise</name><desc>dag 1, km 0,6 | 362 m van het pad | open volgens OSM: Fr-We 07:00-14:00, 15:30-19:30 | bron: OpenStreetMap</desc></wpt>
@@ -47,6 +63,9 @@
   <wpt lat="43.178730" lon="5.689070"><name>Drinkwater</name><desc>dag 1, km 13,6 | 20 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.179060" lon="5.688980"><name>Drinkwater</name><desc>dag 1, km 13,7 | 38 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.214600" lon="5.537430"><name>Drinkwater</name><desc>dag 4, km 0,7 | 8 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.199610" lon="5.632820"><name>Treinstation: La Ciotat-Ceyreste</name><desc>dag 2, km 7,9 | 22 m van het pad | open volgens OSM: Mo-Tu,Th-Sa 14:00-17:10; We 09:00-13:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.185390" lon="5.703770"><name>Treinstation: Saint-Cyr - Les Lecques - La Cadière</name><desc>dag 1, km 13,5 | 1396 m van het pad | open volgens OSM: Mo 07:00-12:00; We,Fr 13:00-15:00; Sa 08:15-11:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.234130" lon="5.553170"><name>Treinstation: Cassis</name><desc>dag 3, km 16,9 | 2476 m van het pad | open volgens OSM: Tu,Th 07:00-12:00; Sa 13:45-16:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.175290" lon="5.608320"><name>Bakker: Le Fournil de Martial</name><desc>dag 3, km 6,4 | 104 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.176310" lon="5.608920"><name>Buurtwinkel: Vival</name><desc>dag 3, km 6,2 | 43 m van het pad | open volgens OSM: Mo-Su 08:00-21:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.175900" lon="5.604740"><name>Bakker: Les Délices de Marine</name><desc>dag 3, km 6,6 | 39 m van het pad | bron: OpenStreetMap</desc></wpt>
@@ -59,6 +78,7 @@
   <wpt lat="43.178920" lon="5.600230"><name>Bakker: La Cigale Gourmande</name><desc>dag 3, km 7,6 | 341 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.177600" lon="5.608200"><name>Buurtwinkel: Carrefour City</name><desc>dag 3, km 6,2 | 78 m van het pad | open volgens OSM: Mo-Sa 07:00-21:00; Su 09:00-13:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.215350" lon="5.538110"><name>Bakker: Mr Lion</name><desc>dag 4, km 0,7 | 93 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.178270" lon="5.690310"><name>Apotheek: Pharmacie des Lecques</name><desc>dag 1, km 13,6 | 53 m van het pad | open volgens OSM: Mo-Fr 08:30-12:30,14:30-19:30; Sa 08:30-12:30,15:00-19:00; Su off | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.173350" lon="5.605720"><name>Bakker: Paul</name><desc>dag 3, km 6,7 | 206 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.143240" lon="5.748040"><name>Supermarkt: Intermarché</name><desc>dag 1, km 0,1 | 391 m van het pad | open volgens OSM: Mo-Th 08:30-19:30; Fr-Sa 08:30-20:00; Su 08:30-12:30 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.188000" lon="5.658270"><name>Supermarkt</name><desc>dag 2, km 3,1 | 372 m van het pad | bron: OpenStreetMap</desc></wpt>
@@ -69,12 +89,25 @@
   <wpt lat="43.134650" lon="5.753120"><name>Drinkwater</name><desc>dag 1, km 0,6 | 302 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.138450" lon="5.751420"><name>Buurtwinkel: Night Market</name><desc>dag 1, km 0,5 | 134 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.180360" lon="5.683720"><name>Drinkwater</name><desc>dag 2, km 0,2 | 12 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.224040" lon="5.540660"><name>Camping: Les Cigales</name><desc>dag 4, km 0,7 | 1059 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.213520" lon="5.539710"><name>Supermarkt: Spar</name><desc>dag 3, km 17,0 | 23 m van het pad | open volgens OSM: Mo-Su 07:00-23:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.218650" lon="5.537870"><name>Buurtwinkel: U Express</name><desc>dag 4, km 0,7 | 423 m van het pad | open volgens OSM: Mo-Sa 08:00-20:00; Su 08:30-13:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.214350" lon="5.538410"><name>Apotheek: Pharmacie Giusti Giordano</name><desc>dag 4, km 0,6 | 28 m van het pad | open volgens OSM: Mo-Sa 08:00-19:30 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.214100" lon="5.538620"><name>Buurtwinkel: Casino shop</name><desc>dag 3, km 17,2 | 26 m van het pad | open volgens OSM: Mo-Su 08:00-13:00,15:30-19:30; We off | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.216920" lon="5.509750"><name>Herberg: Auberge de Jeunesse Cassis - La Fontasse</name><desc>dag 4, km 2,5 | 1093 m van het pad | open volgens OSM: 17:00-20:30; Jan 01-Mar 15,Jul 01-Aug 31 off | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.183920" lon="5.609550"><name>Bakker: Gustave</name><desc>dag 3, km 5,2 | 225 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.195520" lon="5.611500"><name>Supermarkt: Netto</name><desc>dag 3, km 3,8 | 271 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.151990" lon="5.715250"><name>Camping Port d'Alon</name><desc>dag 1, km 5,3 | 360 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.159520" lon="5.731090"><name>Camping Clos Ste Thérèse</name><desc>dag 1, km 4,9 | 1500 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.186500" lon="5.678620"><name>Camping: AEC Vacances - Les Dauphins</name><desc>dag 2, km 0,6 | 723 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.186100" lon="5.606090"><name>Camping: La Sauge</name><desc>dag 3, km 5,1 | 571 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.188830" lon="5.644680"><name>Camping: Santa Gusta</name><desc>dag 2, km 5,9 | 722 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.184050" lon="5.605680"><name>Supermarkt: Monoprix</name><desc>dag 3, km 5,2 | 531 m van het pad | open volgens OSM: Mo-Sa 08:00-19:50; Su 09:00-13:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.171640" lon="5.698630"><name>Camping: Les Baumelles</name><desc>dag 1, km 12,7 | 262 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.239110" lon="5.427780"><name>Camping: Camps de protection de la forêt</name><desc>dag 4, km 15,0 | 1229 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.229110" lon="5.614390"><name>Herberg</name><desc>dag 2, km 10,6 | 1388 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.221150" lon="5.627590"><name>Camping de Ceyreste</name><desc>dag 3, km 0,0 | 3 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.187210" lon="5.658430"><name>Camping: La Baie des Anges</name><desc>dag 2, km 3,1 | 430 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.181110" lon="5.684560"><name>Nacht 23: camping of privégrond</name><desc>Nacht ma 23 nov | Les Lecques | Geen camping bevestigd open; Les Baumelles ligt 260 m van het pad.</desc></wpt>
   <wpt lat="43.221120" lon="5.627570"><name>Nacht 24: Camping de Ceyreste</name><desc>Nacht di 24 nov | Ceyreste | Vermeld als open tot 2 januari 2027 (Pitchup). Bellen voor je erop rekent.</desc></wpt>
   <wpt lat="43.213950" lon="5.536060"><name>Nacht 25: privégrond of een bed</name><desc>Nacht wo 25 nov | Cassis | Geen camping bevestigd open; Les Cigales ligt 1 km van de haven.</desc></wpt>

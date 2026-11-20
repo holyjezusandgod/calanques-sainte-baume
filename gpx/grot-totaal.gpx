@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="calanques-route-planner" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata><name>De grot, Cassis en Marseille</name></metadata>
+  <wpt lat="43.213520" lon="5.541290"><name>Apotheek: Pharmacie du Casino</name><desc>dag 3, km 10,1 | 10 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.216990" lon="5.535780"><name>Apotheek: Pharmacie du Val d'Ore</name><desc>dag 3, km 10,6 | 252 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.214370" lon="5.538680"><name>Bakker: Le Fournil du Port</name><desc>dag 3, km 10,3 | 45 m van het pad | open volgens OSM: Mo,We-Su 07:00-19:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.230180" lon="5.437060"><name>Drinkwater: Borne fontaine de Luminy</name><desc>dag 4, km 14,4 | 205 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.214370" lon="5.539070"><name>Bakker: Nomade</name><desc>dag 3, km 10,3 | 67 m van het pad | open volgens OSM: Mo-Su 08:00-20:00 | bron: OpenStreetMap</desc></wpt>
@@ -8,12 +10,21 @@
   <wpt lat="43.214070" lon="5.539230"><name>Bakker: La Tarte Tropézienne</name><desc>dag 3, km 10,2 | 40 m van het pad | open volgens OSM: Mo-Su 07:00-20:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.214160" lon="5.539480"><name>Drinkwater</name><desc>dag 3, km 10,2 | 54 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.214600" lon="5.537430"><name>Drinkwater</name><desc>dag 3, km 10,4 | 8 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.234130" lon="5.553170"><name>Treinstation: Cassis</name><desc>dag 3, km 5,3 | 2171 m van het pad | open volgens OSM: Tu,Th 07:00-12:00; Sa 13:45-16:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.215350" lon="5.538110"><name>Bakker: Mr Lion</name><desc>dag 3, km 10,4 | 93 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.213860" lon="5.538340"><name>Drinkwater</name><desc>dag 3, km 10,3 | 18 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.224040" lon="5.540660"><name>Camping: Les Cigales</name><desc>dag 3, km 10,5 | 1059 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.213520" lon="5.539710"><name>Supermarkt: Spar</name><desc>dag 3, km 10,2 | 20 m van het pad | open volgens OSM: Mo-Su 07:00-23:00 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.218650" lon="5.537870"><name>Buurtwinkel: U Express</name><desc>dag 3, km 10,5 | 423 m van het pad | open volgens OSM: Mo-Sa 08:00-20:00; Su 08:30-13:00 | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.214350" lon="5.538410"><name>Apotheek: Pharmacie Giusti Giordano</name><desc>dag 3, km 10,3 | 28 m van het pad | open volgens OSM: Mo-Sa 08:00-19:30 | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.214100" lon="5.538620"><name>Buurtwinkel: Casino shop</name><desc>dag 3, km 10,3 | 26 m van het pad | open volgens OSM: Mo-Su 08:00-13:00,15:30-19:30; We off | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.216920" lon="5.509750"><name>Herberg: Auberge de Jeunesse Cassis - La Fontasse</name><desc>dag 4, km 0,0 | 0 m van het pad | open volgens OSM: 17:00-20:30; Jan 01-Mar 15,Jul 01-Aug 31 off | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.265650" lon="5.669540"><name>Bakker</name><desc>dag 2, km 8,3 | 31 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.245920" lon="5.570180"><name>Camping: Aux portes de Cassis</name><desc>dag 3, km 2,4 | 2010 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.239110" lon="5.427780"><name>Camping: Camps de protection de la forêt</name><desc>dag 4, km 14,5 | 1229 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.229110" lon="5.614390"><name>Herberg</name><desc>dag 3, km 1,0 | 1198 m van het pad | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.221150" lon="5.627590"><name>Camping de Ceyreste</name><desc>dag 2, km 16,4 | 2283 m van het pad | open eind november: NIET bevestigd, bellen | bron: OpenStreetMap</desc></wpt>
+  <wpt lat="43.335150" lon="5.756750"><name>Herberg: Hostellerie de la Sainte-Baume</name><desc>dag 1, km 0,0 | 24 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.344280" lon="5.758180"><name>Bron of put: Bron</name><desc>dag 1, km 0,1 | 968 m van het pad | drinkbaar volgens OSM: niet vermeld | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.335380" lon="5.757250"><name>Drinkwater: Kraan</name><desc>dag 1, km 0,1 | 20 m van het pad | bron: OpenStreetMap</desc></wpt>
   <wpt lat="43.335310" lon="5.757650"><name>Water mogelijk: Begraafplaats (meestal een kraan)</name><desc>dag 1, km 0,2 | 18 m van het pad | bron: OpenStreetMap</desc></wpt>
